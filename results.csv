@@ -1,0 +1,8 @@
+Model,Metric_Type,Score
+minigpt_v1,val_loss,5.194
+minigpt_v2,val_loss,5.262
+mDeBERTa-v3_standart,accuracy,0.933
+xlm-roberta_standart,accuracy,0.666
+mDeBERTa-v3_template_review,accuracy,0.866
+mDeBERTa-v3_template_category,accuracy,0.666
+mDeBERTa-v3_template_client,accuracy,0.4
